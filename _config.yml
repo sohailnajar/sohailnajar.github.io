@@ -28,7 +28,7 @@ twitter_username: sohailnajar
 github_username: sohailnajar
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 # Exclude from processing.
