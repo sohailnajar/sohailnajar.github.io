@@ -28,7 +28,7 @@ twitter_username: sohailnajar
 github_username: sohailnajar
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 # Exclude from processing.
